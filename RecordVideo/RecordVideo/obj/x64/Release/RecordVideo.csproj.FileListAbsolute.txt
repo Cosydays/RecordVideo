@@ -1,0 +1,15 @@
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\bin\x64\Release\RecordVideo.exe.config
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\bin\x64\Release\RecordVideo.exe
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\bin\x64\Release\RecordVideo.pdb
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\bin\x64\Release\ESBasic.dll
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\bin\x64\Release\Oraycn.MCapture.dll
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\bin\x64\Release\Oraycn.MFile.dll
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\bin\x64\Release\ESBasic.xml
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\bin\x64\Release\Oraycn.MCapture.xml
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\bin\x64\Release\Oraycn.MFile.xml
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\obj\x64\Release\RecordVideo.csprojResolveAssemblyReference.cache
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\obj\x64\Release\RecordVideo.Form1.resources
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\obj\x64\Release\RecordVideo.Properties.Resources.resources
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\obj\x64\Release\RecordVideo.csproj.GenerateResource.Cache
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\obj\x64\Release\RecordVideo.exe
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\obj\x64\Release\RecordVideo.pdb

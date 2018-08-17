@@ -1,0 +1,1 @@
+Y:\code\C#\Projects_C#\RecordVideo\RecordVideo\bin\Release\RecordVideo.exe.config
